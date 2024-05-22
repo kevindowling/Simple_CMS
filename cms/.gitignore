@@ -1,0 +1,9 @@
+#junk folder
+/ignore/
+
+# Composer dependencies
+/vendor/
+composer.phar
+
+#DB
+cms.db
